@@ -1,0 +1,80 @@
+/* .nav{
+    float: left;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.688);
+    width: 100%;
+    
+    height: 100px;
+}
+ .container{
+    background-color:burlywood;
+    height: 800px;
+    background-image: url(../assets/images/jorge-ramirez-anT-7GmycsY-unsplash.jpg);
+    background-size: cover;
+ }
+ button{
+    
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+   font-size: 20px;
+   font-family: fantasy;
+   color: aliceblue;
+   background-color: rgba(0, 0, 0, 0.438);
+  
+  
+}
+button:hover{
+    background-color: rgba(255, 255, 255, 0.273);
+} */
+
+.main-container{
+    background-color:burlywood;
+    height: 800px;
+    background-image: url(../assets/images/jorge-ramirez-anT-7GmycsY-unsplash.jpg);
+    background-size: cover;
+}
+.nav-container{
+    float: left;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.688);
+    width: 100%;
+    display: inline;
+    height: 100px;
+}
+li{
+    display: inline;
+    margin-left: 0px;
+    margin-top: 0px;
+
+}
+a{
+    display: inline-block;
+
+    margin-top: 10px;
+    background-color: rgba(240, 248, 255, 0.025);
+    width: 100px;
+    height: 70px;
+    border-radius: 4px;
+    text-decoration: none;
+
+}
+a:hover{
+    background-color:burlywood;
+}
+p{
+    margin-left: 15px;
+    margin-bottom: 10px;
+    margin-top: 30px;
+    color: azure;
+    font-family:fantasy;
+}
+ul{
+    margin-top: 0px;
+}
+h4{
+    display: inline;
+}

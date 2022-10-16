@@ -1,0 +1,54 @@
+.cd{
+    background-color: rgba(255, 255, 255, 0.816);
+    width: 300px;
+    height: 500px;
+    margin-left: 120px;
+    margin-top: 100px;
+    float: left;
+    padding: 10px 10px;
+    border: 10px solid grey;
+}
+
+
+
+h4{
+    font-family:  Arial, Helvetica, sans-serif, 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: tomato;
+    font-size: 60px;
+    margin-bottom: 0px;
+  
+    
+}
+
+.nav{
+    float: left;
+    margin: 0px;
+    background-color: rgba(0, 0, 0, 0.688);
+    width: 100%;
+    
+    height: 100px;
+}
+ .container{
+    background-color:burlywood;
+    height: 800px;
+    background-image: url(../../assets/images/jorge-ramirez-anT-7GmycsY-unsplash.jpg);
+    background-size: cover;
+ }
+ button{
+    
+    margin-left: 0px;
+    margin-top: 0px;
+    border-radius: 0px;
+    width: 150px;
+    height: 100px;
+    border-radius: 10px;
+   font-size: 20px;
+   font-family: fantasy;
+   color: aliceblue;
+   background-color: rgba(0, 0, 0, 0.438);
+  
+  
+}
+button:hover{
+    background-color: rgba(255, 255, 255, 0.273);
+}
